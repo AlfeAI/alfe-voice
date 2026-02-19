@@ -1,0 +1,20 @@
+{
+  "name": "alfe-voice",
+  "version": "0.1.0",
+  "description": "Voice-agnostic agent communication layer",
+  "private": true,
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "test": "turbo test",
+    "clean": "turbo clean"
+  },
+  "keywords": ["voice", "ai", "agent", "stt", "tts", "twilio", "webrtc"],
+  "author": "Alfe AI",
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.0",
+  "engines": {
+    "node": ">=20"
+  }
+}
